@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">मील ऑन व्हील्स</string>
+
+
+        <string name="login">लॉग इन करें</string>
+        <string name="email">ईमेल</string>
+        <string name="password">कुंजिका</string>
+        <string name="Signup">खाता बनाएं</string>
+        <string name="name">पूरा नाम</string>
+        <string name="mobile">मोबाइल</string>
+        <string name="enter_email">ईमेल</string>
+        <string name="confirm_password">पासवर्ड की पुष्टि कीजिये</string>
+    <string name="title_activity_dashboard">डैशबोर्ड गतिविधि</string>
+    <string name="action_settings">समायोजन</string>
+        <string name="menu_home">घर</string>
+        <string name="menu_gallery">गेलरी</string>
+        <string name="category_name">फ़ास्ट फ़ूड</string>
+        <string name="beef_slider">गोमांस की खाल</string>
+        <string name="price">100.00रुपये</string>
+        <string name="add">जोड़ना</string>
+        <string name="product_image">उत्पाद का चित्र</string>
+        <string name="quantity">0</string>
+        <string name="food_item">खाद्य - सामग्री</string>
+        <string name="profile_name">मील ऑन व्हील्स</string>
+        <string name="cart">गाड़ी</string>
+        <string name="cart_is_empty">कार्ट खाली है, आइटम जोड़ें</string>
+        <string name="ordering_from">से आर्डर दे रहा है</string>
+        <string name="car_name">पक्वान रेस्तरां</string>
+        <string name="address">दिल्ली-भारत</string>
+        <string name="deliver_to">उसे देदो</string>
+        <string name="flat_or_road_number">समतल सड़क संख्या</string>
+        <string name="search_for_item">भोजन की श्रेणी</string>
+        <string name="category">भोजनालय</string>
+        <string name="drinks_and_beverages_meals">विशेष खाद्य पदार्थ, पेय, रस</string>
+        <string name="delivery_charge">उद्धार 60 रुपये</string>
+        <string name="available_item">उपलब्ध आइटम</string>
+        <string name="order_items">चिजें मँगाओ</string>
+        <string name="sub_total">उप-योग</string>
+        <string name="sub_total_amount">100.00रुपये</string>
+         <string name="total"> संपूर्ण</string>>
+        <string name="vat">वैट(0.00%)</string>
+        <string name="vat_value">0.00 रुपये</string>
+        <string name="service_charge">सेवा शुल्क</string>
+        <string name="service_charge_amount">0.00 रुपये</string>
+        <string name="deliver_fee">अर्पण शुल्क</string>
+        <string name="deliver_fee_amount">60.00 रुपये</string>
+        <string name="discount">छूट</string>
+        <string name="discout_text">- 60.00 रुपये</string>
+        <string name="confirm_order">आदेश की पुष्टि करें</string>
+        <string name="order_confirmation">आदेश की पुष्टि</string>
+        <string name="order_history">आदेश इतिहास</string>
+        <string name="hello_blank_fragment">हैलो खाली टुकड़ा</string>
+        <string name="logout">लॉग आउट</string>
+    <string name="welcome">स्वागत हे</string>
+    <string name="changelang">भाषा बदलो</string>
+    <string name="next">पास के भोजनालय</string>
+    <string name="title_activity_maps">नक्शा</string>
+    <string name="nearbyrestaurant">पास के भोजनालय</string>
+
+
+
+</resources>
+
+
+

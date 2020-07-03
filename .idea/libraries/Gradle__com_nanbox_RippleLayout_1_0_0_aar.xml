@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.nanbox:RippleLayout:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c8cf208f51b8cec5e099c08ac05ae151/RippleLayout-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c8cf208f51b8cec5e099c08ac05ae151/RippleLayout-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nanbox/RippleLayout/1.0.0/952f3a6b4e0a6e354656d22adf04910409d736b5/RippleLayout-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nanbox/RippleLayout/1.0.0/f55ce5804976465bd6f345b4ba30c1a8b6c1ee2b/RippleLayout-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
